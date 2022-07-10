@@ -1,0 +1,14 @@
+
+body noscript h1 {
+    color: red;
+}
+
+#titulo {
+    text-align: center;
+    color: rgb(10, 195, 228);
+}
+
+.imagen-content > img {
+    width: 500px;
+    height: auto;
+}
